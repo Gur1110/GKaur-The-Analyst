@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-Hi, I'm **Gursimran Kaur** 👋, a data analyst who loves turning messy, raw data into stories that people can act on.
+Hi, I'm **Gursimran Kaur** 👋, A Data Analyst who loves turning messy, raw data into stories that people can act on.
 
 My work covers the full analytics workflow:
 
